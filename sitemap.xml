@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://sdapermata.jsx.pm/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://sdapermata.jsx.pm/about.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://sdapermata.jsx.pm/articles.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://sdapermata.jsx.pm/contact.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://sdapermata.jsx.pm/history.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://sdapermata.jsx.pm/jemaat.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://sdapermata.jsx.pm/members.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://sdapermata.jsx.pm/monitor.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
+</urlset>
